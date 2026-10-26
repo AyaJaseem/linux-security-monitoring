@@ -1,0 +1,5 @@
+Operating System: Ubuntu Linux
+Log Collection: Elastic Agent
+Search and Storage: Elasticsearch
+Visualization: Kibana
+Monitoring Target: SSH Authentication Logs
