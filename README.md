@@ -44,3 +44,15 @@ This project helped me practice working with Linux, understand authentication lo
 
 ### Screenshot 4
 ![Kibana Dashboard 4](./failed-ssh-dashboard.4.png)
+
+## Results
+
+- Successfully configured Elasticsearch and Kibana for Linux security monitoring.
+- Collected Ubuntu system logs using Elastic Agent.
+- Generated failed SSH login events during testing.
+- Verified that failed login events appeared in Kibana.
+- Created a Kibana dashboard to visualize failed login attempts by username and source IP address.
+
+## Conclusion
+
+This project provided hands-on experience with Linux log monitoring, Elasticsearch, Kibana, and basic security event analysis. It helped me understand how SIEM tools can be used to monitor authentication activity and investigate suspicious login attempts.
