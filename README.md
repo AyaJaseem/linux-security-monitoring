@@ -30,3 +30,17 @@ Source IP: `127.0.0.1`
 
 ## What I Learned
 This project helped me practice working with Linux, understand authentication logs, and learn how to use Kibana to monitor security events.
+
+## Dashboard Screenshots
+
+### Screenshot 1
+![Kibana Dashboard 1](./failed-ssh-dashboard%201.png)
+
+### Screenshot 2
+![Kibana Dashboard 2](./failed-ssh-dashboard.2.png)
+
+### Screenshot 3
+![Kibana Dashboard 3](./failed-ssh-dashboard.3.png)
+
+### Screenshot 4
+![Kibana Dashboard 4](./failed-ssh-dashboard.4.png)
