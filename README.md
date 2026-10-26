@@ -81,4 +81,4 @@ This project helped me practice working with Linux, understand authentication lo
 This project provided hands-on experience with Linux log monitoring, Elasticsearch, Kibana, and basic security event analysis. It helped me understand how SIEM tools can be used to monitor authentication activity and investigate failed SSH login attempts.
 
 ## Security Note
-This project was created for educational purposes in a controlled lab environment. Passwords, enrollment tokens, API keys, and private certificates should never be uploaded to GitHub.
+This project was created for educational purposes in a controlled lab environment. Sensitive information should not be uploaded to GitHub.
